@@ -14,5 +14,5 @@ MODS metadata remediation following the DLXS to Islandora migration. The data wa
 	      |-- open_refine_template.md
         |-- splitter.xsl
 |-- original_data
-    |-- originaldatafrommDLXS.csv
+    |-- tdh_dc.csv
 ```
